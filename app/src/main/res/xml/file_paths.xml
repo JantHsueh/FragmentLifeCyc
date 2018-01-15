@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <root-path name="profile_photo" path="" />
+    <external-path name="thisIsRoot" path="." />
+    <!--<external-path name="RootMsc" path="msc/" />-->
+    <!--<external-path name="files_root" path="Android/data/com.futureway.intelligent.locationgps/"  />-->
+    <!--<external-path name="profile_photo1" path="DCIM/"  />-->
+</paths>
